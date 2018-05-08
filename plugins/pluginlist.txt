@@ -1,0 +1,40 @@
+Advanced Achievements :https://dev.bukkit.org/projects/advanced-achievements
+
+Citizens : https://dev.bukkit.org/projects/citizens
+
+CityWorld : https://dev.bukkit.org/projects/cityworld
+            https://github.com/echurchill/CityWorld/blob/master/pages/installation.txt
+
+Crackshot : https://dev.bukkit.org/projects/crackshot
+
+Denizen : https://www.spigotmc.org/resources/denizen.21039/
+
+Fe : https://www.spigotmc.org/resources/fe.723/
+
+Heroes : https://www.spigotmc.org/resources/heroes.305/
+
+MagicSpells : https://dev.bukkit.org/projects/magicspells
+
+mcMMO : https://www.spigotmc.org/resources/mcmmo.2445/
+
+mcMMOHorses : https://dev.bukkit.org/projects/horse-rpg
+
+Massive Core (dependency skillsapi) : https://dev.bukkit.org/projects/mcore
+
+Minepacks : https://dev.bukkit.org/projects/minepacks
+
+Multiverse-core : https://dev.bukkit.org/projects/multiverse-core
+
+PermissionsBukkit : https://dev.bukkit.org/projects/permbukkit
+
+PlayerVitals : https://dev.bukkit.org/projects/playervitals
+
+ProtocolLib (dependency car) : https://dev.bukkit.org/projects/protocollib
+
+SkillApi : https://dev.bukkit.org/projects/skillapi
+
+uCars : https://dev.bukkit.org/projects/ucars
+
+uCarsTrade : https://dev.bukkit.org/projects/ucars-trade?gameCategorySlug=bukkit-plugins&projectID=68821
+
+Vault (dependency heroes) : https://dev.bukkit.org/projects/vault/files/894011 
