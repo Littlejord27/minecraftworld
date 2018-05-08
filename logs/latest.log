@@ -1,0 +1,59 @@
+[22:37:04] [Server thread/INFO]: Starting minecraft server version 1.8
+[22:37:04] [Server thread/INFO]: Loading properties
+[22:37:04] [Server thread/INFO]: Default game type: SURVIVAL
+[22:37:04] [Server thread/INFO]: Generating keypair
+[22:37:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:37:04] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[22:37:04] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.5
+[22:37:04] [Server thread/INFO]: [Vault] Loading Vault v1.5.5-b47
+[22:37:04] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.5
+[22:37:04] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[22:37:04] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[22:37:05] [Server thread/INFO]: [Vault] Enabling Vault v1.5.5-b47
+[22:37:05] [Server thread/INFO]: [Vault][Permission] PermissionsBukkit hooked.
+[22:37:05] [Server thread/INFO]: [Vault] [Permission] PermissionsBukkit found: Waiting
+[22:37:05] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:37:05] [Server thread/INFO]: [Vault] Enabled Version 1.5.5-b47
+[22:37:05] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.5
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] === ENABLE START ===
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] §eLoading Cachefile datas...
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] §eLoading Onlineplayer datas...
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] §eLoading Registry datas...
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] §eSaving Cachefile...
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] §eSetup of IdUtil took §d11§ems.
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] §aActivated §eintegration with §dVault
+[22:37:05] [Server thread/INFO]: [MassiveCore 2.8.5] === ENABLE §aCOMPLETE §e(Took §d233ms§e) ===
+[22:37:05] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[22:37:05] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:37:05] [Server thread/INFO]: Preparing level "CasualAddict"
+[22:37:05] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7509277403669969763)
+[22:37:06] [Server thread/INFO]: Preparing spawn area: 6%
+[22:37:07] [Server thread/INFO]: Preparing spawn area: 11%
+[22:37:08] [Server thread/INFO]: Preparing spawn area: 15%
+[22:37:09] [Server thread/INFO]: Preparing spawn area: 21%
+[22:37:10] [Server thread/INFO]: Preparing spawn area: 27%
+[22:37:11] [Server thread/INFO]: Preparing spawn area: 33%
+[22:37:12] [Server thread/INFO]: Preparing spawn area: 43%
+[22:37:13] [Server thread/INFO]: Preparing spawn area: 53%
+[22:37:14] [Server thread/INFO]: Preparing spawn area: 66%
+[22:37:15] [Server thread/INFO]: Preparing spawn area: 77%
+[22:37:16] [Server thread/INFO]: Preparing spawn area: 88%
+[22:37:17] [Server thread/INFO]: Preparing spawn area: 99%
+[22:37:17] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7509277403669969763)
+[22:37:19] [Server thread/INFO]: Preparing spawn area: 12%
+[22:37:20] [Server thread/INFO]: Preparing spawn area: 33%
+[22:37:21] [Server thread/INFO]: Preparing spawn area: 62%
+[22:37:22] [Server thread/INFO]: Preparing spawn area: 86%
+[22:37:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7509277403669969763)
+[22:37:23] [Server thread/INFO]: Preparing spawn area: 31%
+[22:37:24] [Server thread/INFO]: Preparing spawn area: 69%
+[22:37:25] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.5
+[22:37:25] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[22:37:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:37:25] [Server thread/INFO]: Done (20.160s)! For help, type "help" or "?"
+[22:37:25] [pool-3-thread-5/INFO]: [Vault] Checking for Updates ... 
+[22:37:26] [pool-3-thread-5/WARN]: [Vault] Stable Version: 1.5.6 is out! You are still running version: 1.5.5
+[22:37:26] [pool-3-thread-5/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[22:37:26] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.[m
+[22:37:51] [Thread-4/INFO]: Stopping server
+[22:37:51] [Thread-4/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.5

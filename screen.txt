@@ -1,0 +1,3 @@
+ctrl + a -> ctrl + d = detached
+
+`screen -r` = reatch
