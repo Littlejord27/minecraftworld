@@ -1,0 +1,11 @@
+class: Rogue
+verbose: true
+suppressed: []
+mana: 1
+skill-settings: {}
+cooldowns: {}
+experience:
+  Citizen: 17.0
+  Rogue: 8163.0
+masteries: {}
+binds: {}

@@ -1,0 +1,34 @@
+enable:
+  sleep: true
+  thirst: true
+  bleed: true
+message:
+  sleep:
+    '20': I am tired.
+    '40': '&eI am very tired, and need to sleep.'
+    '60': '&cl&nI am extremely tired and need sleep soon.'
+  thirst:
+    '5': I feel like having a sip of water.
+    '10': '&eI need something to drink.'
+    '15': '&c&l&nI am dehydrated and need to drink now.'
+    sated: You've drunk water and is no longer thirsty.
+  bleeding:
+    procc: You are now bleeding.
+    '10': '&cYou are bleeding, find bandages.'
+  bypass:
+    'off': '&cYou are no longer bypassing PlayerVitals'' effects.'
+    'on': '&aYou are now bypassing PlayerVitals'' effects.'
+  heal:
+    target: '%sender has reset all PlayerVitals'' effects on you.'
+    sender: You reset %target's PlayerVitals' effects.
+    all: You reset everyone's PlayerVitals effect..
+  bandage:
+    given: You've been given %amount bandage(s).
+    used: You've used a bandage and stopped your bleeding.
+effect:
+  thirst:
+    damage: 1
+  bleeding:
+    damage: 1
+time: '23:59'
+data: {}
